@@ -38,5 +38,9 @@ while(True):
     Eg: username = "J"
         new_username = username.lower()  "j"
     2. .upper()- This is used to convert a string into uppercase.
-    3. isdigit()- Is used to check if a string comprises of digits    
-    '''
+    3. isdigit()- Is used to check if a string comprises of digits
+    
+    
+    for in loop: it is an iterating fcuntion. If you have a sequence object like  alist, you can use the for in loop to iterate over items contained with in the list. The  functionality of the loop isn't very differnt from  what you see in multiple other programming languages.    
+    ''' 
+    
